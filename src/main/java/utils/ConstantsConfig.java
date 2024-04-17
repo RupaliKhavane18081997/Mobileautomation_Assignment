@@ -14,7 +14,7 @@ public class ConstantsConfig {
 	//public static final String REPORTS_PATH = System.getProperty("user.dir")+"\\Report\\Reports";
 	public static final String REPORTS_SEND = System.getProperty("user.dir")+"\\Report";
 //3DI	
-	public static final String DATA_XLS_PATH = System.getProperty("user.dir")+"\\data\\Data_3DI.xlsx";
+	public static final String DATA_XLS_PATH = System.getProperty("user.dir")+"\\data\\Data.xlsx";
 //SEC	
 	//public static final String DATA_XLS_PATH = System.getProperty("user.dir")+"\\data\\Data_SEC_Dev.xlsx";
 	
