@@ -25,7 +25,7 @@ import org.apache.xmlbeans.impl.piccolo.xml.XMLInputReader;
 
 
 public class ExcelReader {
-	public static String filename = System.getProperty("user.dir")+"\\data\\Data_3DI.xlsx";
+	public static String filename = System.getProperty("user.dir")+"\\data\\Data.xlsx";
 	public  String path;
 	public  FileInputStream fis = null;
 	public  FileOutputStream fileOut =null;
